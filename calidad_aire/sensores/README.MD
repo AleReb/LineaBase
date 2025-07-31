@@ -50,7 +50,7 @@ Este firmware implementa un sistema integrado para monitorear múltiples paráme
 ## Instalación
 1. Clonar este repositorio
 ```sh
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/AleReb/LineaBase.git
 ```
 2. Instalar dependencias necesarias desde el gestor de librerías de Arduino IDE.
 3. Configurar los parámetros específicos (APN, URLs, intervalos de medición y envío) en el archivo principal del firmware.
