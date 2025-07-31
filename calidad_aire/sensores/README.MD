@@ -61,6 +61,11 @@ El sistema opera de manera autónoma una vez encendido. Asegúrese de verificar 
 - Estado de conexión celular.
 - Integridad de los datos almacenados en la tarjeta SD.
 - Nivel de batería y calidad de señal.
+## Bugs conocidos
+El hardware tiene varias limitaciones:
+- Estado de conexión celular al ser muy bajo a veces no se puede transmitir la foto.
+- El regulador de voltaje no permite la activacion del wifi.
+- El cable de la camara tiene que ser lo mas corto posible, hay limitaciones de transmision por serial.
 
 ## Soporte y contacto
-Para cualquier consulta técnica o reporte de fallos, contactar a Alejandro Rebolledo mediante los canales establecidos en este repositorio.
+Para cualquier consulta técnica o reporte de fallos, contactar a Alejandro Rebolledo mediante los canales establecidos en este repositorio o por correo arebolledo@udd.cl.
