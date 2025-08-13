@@ -86,8 +86,7 @@ String PHOTO_PATH = "";          // Ensure PHOTO_PATH is always initialized para
 bool hasRetried = false;         //del manejo de fotos
 bool photosenderOK = false;      //recibi ready de la rpi
 
-//---conectividad
-const char *WEBHOOK_URL = "https://webhook.site/c9333b6f-f640-4e3b-8dce-914a17b553c7";                                                                                                                                                                                                                                                     //direccion de testeo
+//---conectividad                                                                                                                                                                                                                                           //direccion de testeo
 const char *NGROK_URL = "https://hermit-harmless-wildly.ngrok-free.app/agregarImagen";                                                                                                                                                                                                                                                     //pruebas exitosas
 const char *BASE_SERVER_URL = "http://api-sensores.cmasccp.cl/insertarMedicion?idsSensores=121,121,121,122,122,122,122,151,151,151,151,151,151,151,124,124,125,125,126,126,127,127,158,158,159,159,155,145,156,152,128,129&idsVariables=31,32,33,8,9,3,6,3,6,29,30,5,17,13,18,28,19,27,20,26,21,25,37,38,39,40,34,24,35,3,4,15&valores=";  //1,576,96,2,3,4,5,6,7,8,9,10,66,11,12,13,14,15,16,17,18,22,23,19,20,21"
 
